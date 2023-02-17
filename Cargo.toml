@@ -1,0 +1,9 @@
+[package]
+name = "rotp"
+version = "0.1.0"
+
+[dependencies]
+hmac = "^0.12.1"
+base32 = "^0.4.0"
+url = "^1.0"
+sha1 = "^0.10"
